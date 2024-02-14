@@ -7,7 +7,7 @@ O Projeto Treino de Academia é uma aplicação desenvolvida para permitir que o
 - **Arquitetura MVVM:** O projeto segue a arquitetura MVVM (Model-View-ViewModel), separando claramente a lógica de negócios e a lógica de apresentação, o que facilita a manutenção e a escalabilidade do código.
 - **Banco de Dados Realm e Firebase:** Utiliza o Realm para armazenamento local de dados, garantindo uma experiência offline robusta, e o Firebase para armazenamento em nuvem em tempo real, possibilitando a sincronização de dados entre dispositivos e colaboração em tempo real.
 - **Autenticação de Login Firebase:** Implementa a autenticação de login com Firebase, oferecendo aos usuários uma forma segura de acessar suas contas e garantindo a proteção dos dados do usuário.
-- **Kotlin:** A aplicação é desenvolvida em Kotlin, uma linguagem moderna e concisa que oferece recursos avançados de programação para o desenvolvimento de aplicativos Android.
+- **Kotlin/Java:** A aplicação é desenvolvida em Kotlin, uma linguagem moderna e concisa que oferece recursos avançados de programação para o desenvolvimento de aplicativos Android.
 - **Glide:** Biblioteca de carregamento de imagens para Android.
 
 ## Demonstração em Vídeo
