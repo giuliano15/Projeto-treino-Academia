@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/activity_login.xml",
+        "source": "com.example.academia.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.example.academia.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/fragment_exercicio_list.xml",
+        "source": "com.example.academia.app-main-60:/layout/fragment_exercicio_list.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/login.xml",
+        "source": "com.example.academia.app-main-60:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/dialog_editar_treino.xml",
+        "source": "com.example.academia.app-main-60:/layout/dialog_editar_treino.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/activity_finalizar_treino.xml",
+        "source": "com.example.academia.app-main-60:/layout/activity_finalizar_treino.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/activity_cadastro.xml",
+        "source": "com.example.academia.app-main-60:/layout/activity_cadastro.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/activity_main2.xml",
+        "source": "com.example.academia.app-main-60:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/fragment_treino_list.xml",
+        "source": "com.example.academia.app-main-60:/layout/fragment_treino_list.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/dialog_configurar_exercicio.xml",
+        "source": "com.example.academia.app-main-60:/layout/dialog_configurar_exercicio.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/toolbar_customizada.xml",
+        "source": "com.example.academia.app-main-60:/layout/toolbar_customizada.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/item_treino.xml",
+        "source": "com.example.academia.app-main-60:/layout/item_treino.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/popup_countdown.xml",
+        "source": "com.example.academia.app-main-60:/layout/popup_countdown.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/content_main.xml",
+        "source": "com.example.academia.app-main-60:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/item_exercicio2.xml",
+        "source": "com.example.academia.app-main-60:/layout/item_exercicio2.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/item_carousel.xml",
+        "source": "com.example.academia.app-main-60:/layout/item_carousel.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/fragment_detalhes_exercicio.xml",
+        "source": "com.example.academia.app-main-60:/layout/fragment_detalhes_exercicio.xml"
+    },
+    {
+        "merged": "com.example.academia.app-mergeDebugResources-57:/layout/custom_dialog_layout.xml",
+        "source": "com.example.academia.app-main-60:/layout/custom_dialog_layout.xml"
+    }
+]

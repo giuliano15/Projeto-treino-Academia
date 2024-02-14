@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Academia</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Exercicios Rápidos</string>
+    <string name="second_fragment_label">Meus Treinos</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="exercicio_list_fragment_label">Exercicios Rápidos </string>
+    <string name="detalhes_exercicio_fragment_label">Detalhes Exercicios</string>
+
+<!--    <string name="supino_sentado_na_maquina">-->
+<!--         indicado para a realização de exercícios que trabalham a musculatura do bíceps,-->
+<!--         deltoide, trapézio e peitoral-->
+<!--     </string>-->
+<!--    <string name="extensao_triceps">-->
+<!--         Ele permite que seus braços girem naturalmente, reduzindo qualquer dor no pulso,-->
+<!--         cotovelo ou ombro que você possa sentir em uma barra fixa.-->
+<!--     </string>-->
+
+<!--    <string name="rotacao_de_polia">-->
+<!--         Esse treino visa especialmente a ativação do músculo infraespinhal e redondo menor.-->
+<!--     </string>-->
+
+<!--    <string name="elevacao_lateral_em_pe">-->
+<!--         ideal para o fortalecimento dos músculos dos ombros além de melhorar a postura do atleta-->
+<!--     </string>-->
+
+<!--    <string name="esteira">-->
+<!--         Melhora a força e a resistência dos membros superiores; Melhora da capacidade de estabilização da coluna; Promove ativação dos músculos abdominais, lombares e que envolvem o quadril-->
+<!--     </string>-->
+
+    <string name="crucifixo_de_banco_reto">
+         trabalha as cabeças esternais dos seus principais músculos peitorais. Além de fortalecer os músculos do peito, também recrutam músculos deltoides, bíceps, tríceps, flexores do punho e braquial
+     </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <string name="aparelho_gluteo">Aparelho para Gluteo</string>
+    <string name="aparelho_gluteo_description">Como o próprio nome já diz, esse aparelho trabalha os músculos dos glúteos, além da coxa e quadril. Dependendo da máquina, o aluno pode fazer o movimento em pé ou em quatro apoios, levantando o peso com um chute para trás..</string>
+
+    <string name="abdominal_articulado">Abdominal articulado</string>
+    <string name="abdominal_articulado_description">O equipamento trabalha os músculos do abdômen por meio do uso de peso livre. Dessa forma, a máquina facilita e potencializa o movimento que normalmente é feito com uso do colchonete e sem peso.</string>
+
+    <string name="abdominal_paralelo">Abdominal paralelo</string>
+    <string name="abdominal_paralelo_description">É quase que uma cadeira, sem o suporte para sentar, em que os alunos devem se apoiar para realizar o exercício de abdominal infra, com o peso do próprio corpo. </string>
+
+    <string name="apolete">Apolete</string>
+    <string name="apolete_description">É um aparelho específico para treinos de glúteos e posteriores da coxa, além de contribuir com a extensão do quadril..</string>
+
+    <string name="barras_fixas_paralelas">Barras fixas paralelas</string>
+    <string name="barras_fixas_paralelas_description">Neste aparelho, os alunos devem se pendurar e flexionar os braços, puxando o corpo para cima. Dessa forma, é possível trabalhar diferentes movimentos para fortalecer músculos do braço, peito, costas e abdômen, principalmente.</string>
+
+    <string name="bicicleta_ergometrica">Bicicleta ergométrica</string>
+    <string name="bicicleta_ergometrica_description">Funciona como um simulador de pedalada, só que de forma fixa no chão. Proporciona exercícios de força, condicionamento e queima calórica, trabalhando principalmente a parte inferior do corpo e abdômen. .</string>
+
+    <string name="barra_guiada">Barra guiada</string>
+    <string name="barra_guiada_description">Também conhecida como Smith, é uma barra fixa em uma estrutura que auxilia o treino de agachamento. Nela também é possível incluir anilhas nas extremidades. .</string>
+
+    <string name="cadeira_abdutora_adutora">Cadeira adultora</string>
+    <string name="cadeira_abdutora_adutora_description">Podem ser máquinas diferentes ou apenas uma com as duas funções. Nelas, o aluno deve se posicionar sentado na cadeira para abrir ou fechar as pernas. A cadeira abdutora trabalha os músculos internos da coxa e a adutora, o lado externo, além do quadril..</string>
+
+    <string name="cadeira_extensora">Cadeira extensora</string>
+    <string name="cadeira_extensora_description">Também sentados, os alunos devem fazer o movimento de chute para cima, trabalhando toda a extensão frontal da coxa.</string>
+
+    <string name="cadeira_flexora">Cadeira flexora</string>
+    <string name="cadeira_flexora_description">Também conhecida como mesa flexora, é o contrário da cadeira extensora. Nela, os alunos ficam deitados de barriga para baixo e puxam o peso até os glúteos. Trabalha os músculos posteriores da coxa, glúteo e panturrilha.</string>
+
+    <string name="cross_over">Cross over</string>
+    <string name="cross_over_description">É usado principalmente para trabalhar os músculos superiores. Contempla uma estrutura com duas polias paralelas.</string>
+
+    <string name="esteira">Esteira</string>
+    <string name="esteira_description">É um simulador de caminhada e corrida, com possibilidade de aumentar ou diminuir a velocidade e inclinação. Assim como a bicicleta ergométrica, trabalha o condicionamento físico e vascular, além da queima de calorias.</string>
+
+    <string name="eliptico">Elipitico</string>
+    <string name="eliptico_description">Outro aparelho muito conhecido que simula passadas em velocidade para frente e atrás. Trabalha os músculos das pernas, glúteo e abdômen, além de potencializar a capacidade física e cardiovascular.</string>
+
+    <string name="elevacacao_pelvica">Elevação pélvica</string>
+    <string name="elevacacao_pelvica_description">É um aparelho que ajuda a trabalhar os movimentos do treino de glúteos, que também proporciona o fortalecimento e estabilização dos músculos da lombar.</string>
+
+    <string name="graviton">Graviton</string>
+    <string name="graviton_description">É um aparelho bem versátil parecido com a barra fixa, só que com o peso da máquina. Os alunos podem utilizá-lo para trabalhar exercícios de costas, ombro e braço ou até mesmo glúteos.</string>
+
+    <string name="hack_para_agachamento">Hack de agachamento</string>
+    <string name="hack_para_agachamento_description">O equipamento consiste no suporte para apoiar a barra com pesos para o treino de agachamento. Trabalha principalmente os glúteos e quadríceps, mas também posteriores, panturrilha e flexores de quadril.</string>
+
+    <string name="leg_press">Leg press</string>
+    <string name="leg_press_description">Também é um dos equipamentos mais conhecido para treino de músculos inferiores. São várias as inclinações possíveis, sendo a mais conhecida a de 45º.</string>
+
+    <string name="prancha_abdominal">Prancha abdominal</string>
+    <string name="prancha_abdominal_description">É um banco com diferentes possibilidades de inclinação para facilitar o movimento da prancha, que trabalha os músculos do abdômen.</string>
+
+    <string name="peck_deck">Peck deck</string>
+    <string name="peck_deck_description">Encontrado em diferentes nomes, é o principal aparelho para trabalhar a musculatura do peito. Nele, os alunos devem se posicionar sentados, puxando as manoplas na direção central do peitoral.</string>
+
+    <string name="panturrilha_sentada">Panturrilha sentada</string>
+    <string name="panturrilha_sentada_description">Como o nome já diz, é um equipamento próprio para a região das panturrilhas. Funciona como uma cadeira em que os alunos levantam o peso livre de acordo com a inclinação dos pés. </string>
+
+    <string name="polia">Polia</string>
+    <string name="polia_description">É uma versão mais simples do equipamento Cross Over, usada principalmente para movimentos que trabalham os músculos superiores.</string>
+
+    <string name="remo_indoor">Remo indoor</string>
+    <string name="remo_indoor_description">É um simulador do esporte à remo, que trabalha o condicionamento físico e cardiovascular, além dos músculos superiores. Funciona com o movimento de puxar o peso em direção às costas e ao peito.</string>
+
+    <string name="simulador_de_escada">Simuador de escada</string>
+    <string name="simulador_de_escada_description">Uma das tendências em equipamentos para academias, para que as pessoas simulem o movimento de subir escadas. Estimula o condicionamento físico e queima de calorias.</string>
+
+    <string name="supino">Supino</string>
+    <string name="supino_description">Também disponível em diferentes inclinações, o aparelho trabalha principalmente a região peitoral, braço e ombro. Funciona com o aluno deitado, de acordo com a inclinação, levantando barras com pesos nas extremidades.</string>
+
+
+</resources>

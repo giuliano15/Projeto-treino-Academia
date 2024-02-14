@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_apolete.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/apolete.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_prancha_abdominal.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/prancha_abdominal.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_fragment_treino_list.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/fragment_treino_list.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_abdominal_articulado_detalhe.gif.flat",
+        "source": "com.example.academia.app-main-60:/drawable/abdominal_articulado_detalhe.gif"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-hdpi_haltere.png.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-hdpi/haltere.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_barra_guiada.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/barra_guiada.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_hack_para_agachamento.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/hack_para_agachamento.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_info.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/info.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_braco.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/braco.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_bicicleta_ergometrica.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/bicicleta_ergometrica.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_aparelho_graviton.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/aparelho_graviton.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_bbicicleta.gif.flat",
+        "source": "com.example.academia.app-main-60:/drawable/bbicicleta.gif"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_fragment_detalhes_exercicio.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/fragment_detalhes_exercicio.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_peito.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/peito.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_supino_sentado_na_maquina.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/supino_sentado_na_maquina.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/raw_beep_01.mp3.flat",
+        "source": "com.example.academia.app-main-60:/raw/beep_01.mp3"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_logo_verde.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/logo_verde.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_todo_corpo.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/todo_corpo.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_activity_cadastro.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/activity_cadastro.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_fundo_alteres.jpeg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/fundo_alteres.jpeg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_login.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_cadeira_flexora.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/cadeira_flexora.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_simulador_de_escada.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/simulador_de_escada.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_popup_countdown.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/popup_countdown.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_leg_press.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/leg_press.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_cross_over.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/cross_over.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_panturrilha_sentada.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/panturrilha_sentada.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_activity_main.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_round_add_circle_outline_24.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/round_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_activity_finalizar_treino.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/activity_finalizar_treino.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/raw_beep_02.mp3.flat",
+        "source": "com.example.academia.app-main-60:/raw/beep_02.mp3"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_item_carousel.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/item_carousel.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_peck_deck.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/peck_deck.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/raw_power_of_dreams.mp3.flat",
+        "source": "com.example.academia.app-main-60:/raw/power_of_dreams.mp3"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_item_exercicio2.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/item_exercicio2.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_toolbar_customizada.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/toolbar_customizada.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_pause.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/navigation_nav_graph.xml.flat",
+        "source": "com.example.academia.app-main-60:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_haltere.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/haltere.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_esteira.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/esteira.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_abdominal_articulado.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/abdominal_articulado.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_polia.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/polia.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "com.example.academia.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_activity_login.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_aparelho_de_elevacao_pelvica.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/aparelho_de_elevacao_pelvica.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_time.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_fundo_academia.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/fundo_academia.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_novo.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_novo.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_tres_pontos.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/tres_pontos.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_cadeira_extensora.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/cadeira_extensora.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_abdominal_paralelos.gif.flat",
+        "source": "com.example.academia.app-main-60:/drawable/abdominal_paralelos.gif"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_costas.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/costas.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_edittext_rounded_bg.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/edittext_rounded_bg.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_content_main.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_win.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/win.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/menu_menu_overflow.xml.flat",
+        "source": "com.example.academia.app-main-60:/menu/menu_overflow.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_my_button_bg.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/my_button_bg.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_cadeira_abdutora_adutora.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/cadeira_abdutora_adutora.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_foto_academia.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/foto_academia.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/raw_the_carpente_novo.mp3.flat",
+        "source": "com.example.academia.app-main-60:/raw/the_carpente_novo.mp3"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_aparelho_gluteo.gif.flat",
+        "source": "com.example.academia.app-main-60:/drawable/aparelho_gluteo.gif"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_bkg_fundo_saga_cd.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/bkg_fundo_saga_cd.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_dialog_configurar_exercicio.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/dialog_configurar_exercicio.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.academia.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_dialog_editar_treino.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/dialog_editar_treino.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_fragment_exercicio_list.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/fragment_exercicio_list.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_fundo_chat.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/fundo_chat.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_custom_dialog_layout.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/custom_dialog_layout.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_eliptico.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/eliptico.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_play.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_activity_main2.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_edit_text_rounded.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/edit_text_rounded.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_menu.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_back.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/back.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/menu_menu_main.xml.flat",
+        "source": "com.example.academia.app-main-60:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_flexao_de_pernas.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/flexao_de_pernas.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_crucifixo_de_banco_reto.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/crucifixo_de_banco_reto.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_stop.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_abdominal_paralelo.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/abdominal_paralelo.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_vamos_comecar.jpeg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/vamos_comecar.jpeg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_supino.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/supino.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/layout_item_treino.xml.flat",
+        "source": "com.example.academia.app-main-60:/layout/item_treino.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_extensao_triceps.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/extensao_triceps.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_apolete_detalhe.gif.flat",
+        "source": "com.example.academia.app-main-60:/drawable/apolete_detalhe.gif"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.academia.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_foto_icone_academia.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/foto_icone_academia.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_rotacao_de_polia.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/rotacao_de_polia.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_progress_circle.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/progress_circle.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/menu_menu_exercicio_list.xml.flat",
+        "source": "com.example.academia.app-main-60:/menu/menu_exercicio_list.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_barra_fixa_paralela_detalhe.gif.flat",
+        "source": "com.example.academia.app-main-60:/drawable/barra_fixa_paralela_detalhe.gif"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_circular_progress_bar.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/circular_progress_bar.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_abdomen.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/abdomen.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_barras_fixas_paralelas.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/barras_fixas_paralelas.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_logo_branco.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/logo_branco.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_apolete_detalhe_2.webp.flat",
+        "source": "com.example.academia.app-main-60:/drawable/apolete_detalhe_2.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_elevacao_lateral_em_pe.jpeg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/elevacao_lateral_em_pe.jpeg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_media_stop.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_media_stop.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_background.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_teste_apolete.webp.flat",
+        "source": "com.example.academia.app-main-60:/drawable/teste_apolete.webp"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_training.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_training.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_ic_bg.jpg.flat",
+        "source": "com.example.academia.app-main-60:/drawable/ic_bg.jpg"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_aparelho_para_gluteo.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/aparelho_para_gluteo.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_barra_guiada_detalhe.gif.flat",
+        "source": "com.example.academia.app-main-60:/drawable/barra_guiada_detalhe.gif"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_relative_border.xml.flat",
+        "source": "com.example.academia.app-main-60:/drawable/relative_border.xml"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_logo_academia.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/logo_academia.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_perna.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/perna.png"
+    },
+    {
+        "merged": "com.example.academia.app-merged_res-58:/drawable_remo_indoor.png.flat",
+        "source": "com.example.academia.app-main-60:/drawable/remo_indoor.png"
+    }
+]
