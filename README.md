@@ -43,4 +43,4 @@ Este projeto está licenciado sob a licença [MIT](LICENSE.md) - veja o arquivo 
 
 ---
 
-Esse README.md apresenta o Projeto Treino de Academia de forma clara e organizada, destacando suas características técnicas e aprimorando sua apresentação para entrevistas e para o seu portfólio.
+EsseProjeto Treino de Academia de forma clara e organizada, destacando por sua simplicidade de uso e visual elegante.
